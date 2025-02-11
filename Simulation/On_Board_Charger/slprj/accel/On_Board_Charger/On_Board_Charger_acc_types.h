@@ -1,0 +1,4 @@
+#ifndef On_Board_Charger_acc_types_h_
+#define On_Board_Charger_acc_types_h_
+typedef struct P_On_Board_Charger_T_ P_On_Board_Charger_T ;
+#endif
