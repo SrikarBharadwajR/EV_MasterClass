@@ -1,17 +1,6 @@
 <h2 align="center" style="font-weight: normal;">EV MASTER CLASS CAPSTONE PROJECT</h2>
 <h1 align="center">Simulation of On-Board Charger for E-Bike Application</h1>
 
-## Author Information
-
-- **Name**: Pragya Sujitkumar
-- **Email**: [pragyasujitkumar922004@gmail.com](mailto:pragyasujitkumar922004@gmail.com)
-- **Phone Number**: +91 9611553678
-- **Institute**: Manipal Institute of Technology, Manipal<br>
-- **Name**: Srikar Bharadwaj R
-- **Email**: [srikarbharadwaj000@gmail.com](mailto:srikarbharadwaj000@gmail.com)
-- **Phone Number**: +91 7259595751
-- **Institute**: Manipal Institute of Technology, Manipal
-
 
 ## eBike Onboard Charger Design - Assumptions
 
@@ -156,8 +145,4 @@ When the capacitance values was increased, the ripples were below 1%.
 with TDR
 
 ![1amp_tdr_n](img/FBR_1A_n.jpg)
-
-
-When the load resistor was removed, and attached to the buck converter, it showed the 
-
 
